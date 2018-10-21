@@ -1,0 +1,17 @@
+certifi==2018.10.15
+cx-Oracle==7.0.0
+dill==0.2.8.2
+Django==2.1.2
+django-filter==2.0.0
+django-tastypie==0.14.2
+djangorestframework==3.9.0
+Markdown==3.0.1
+multiprocess==0.70.6.1
+nest-asyncio==0.9.7
+pipenv==2018.10.13
+python-dateutil==2.7.3
+python-mimeparse==1.6.0
+pytz==2018.5
+six==1.11.0
+virtualenv==16.0.0
+virtualenv-clone==0.4.0
